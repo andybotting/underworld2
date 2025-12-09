@@ -21,6 +21,7 @@ dependencies:
   - nbmake
   - matplotlib
   - jupyterlab
+  - jupyterhub-singleuser
   - jupytext
   - pip
   - pip:
